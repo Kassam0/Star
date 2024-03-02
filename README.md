@@ -1,2 +1,7 @@
 # Star
-Hi
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x63cce3750aF5c66D9aF0557496dbf86A6977131f'
+quorum: 1
